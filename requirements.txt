@@ -1,1 +1,2 @@
 prefect >= 2.3.2
+prefect-aws >= 0.1.7
